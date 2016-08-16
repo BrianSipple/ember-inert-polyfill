@@ -1,6 +1,6 @@
 # ember-inert-polyfill
 
-_An Ember addon that enables the use of the HTML `inert` attribute by importing
+_An Ember addon that enables use of the HTML `inert` attribute by importing
 the [inert polyfill](https://github.com/GoogleChrome/inert-polyfill)._
 
 [![Latest NPM release][npm-badge]][npm-badge-url]
