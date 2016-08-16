@@ -1,12 +1,10 @@
 # ember-inert-polyfill
 
 _An Ember addon that enables the use of the HTML `inert` attribute by importing
-the [inert polyfill](https://github.com/GoogleChrome/inert-polyfill)_
+the [inert polyfill](https://github.com/GoogleChrome/inert-polyfill)._
 
 [![Latest NPM release][npm-badge]][npm-badge-url]
 [![TravisCI Build Status][travis-badge]][travis-badge-url]
-[![Test Coverage][coveralls-badge]][coveralls-badge-url]
-[![Code Climate][codeclimate-badge]][codeclimate-badge-url]
 [![Ember Observer Score][ember-observer-badge]][ember-observer-badge-url]
 [![License][license-badge]][license-badge-url]
 [![Dependencies][dependencies-badge]][dependencies-badge-url]
@@ -67,10 +65,6 @@ For more information on using ember-cli, visit [http://ember-cli.com/](http://em
 [npm-badge-url]: https://www.npmjs.com/package/ember-inert-polyfill
 [travis-badge]: https://img.shields.io/travis/BrianSipple/ember-inert-polyfill/master.svg?label=TravisCI
 [travis-badge-url]: https://travis-ci.org/BrianSipple/ember-inert-polyfill
-[coveralls-badge]: https://coveralls.io/repos/github/BrianSipple/ember-inert-polyfill/badge.svg?branch=master
-[coveralls-badge-url]: https://coveralls.io/github/BrianSipple/ember-inert-polyfill?branch=master
-[codeclimate-badge]: https://img.shields.io/codeclimate/github/BrianSipple/ember-inert-polyfill.svg
-[codeclimate-badge-url]: https://codeclimate.com/github/BrianSipple/ember-inert-polyfill
 [ember-observer-badge]: http://emberobserver.com/badges/ember-inert-polyfill.svg
 [ember-observer-badge-url]: http://emberobserver.com/addons/ember-inert-polyfill
 [license-badge]: https://img.shields.io/npm/l/ember-inert-polyfill.svg
