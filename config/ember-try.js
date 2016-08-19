@@ -25,7 +25,7 @@ module.exports = {
           'ember': 'components/ember#lts-2-4'
         },
         resolutions: {
-          'ember': 'lts-2.4'
+          'ember': '2.4'
         }
       }
     },
