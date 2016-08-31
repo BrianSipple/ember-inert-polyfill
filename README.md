@@ -21,7 +21,7 @@ The official HTML spec provides a good description of its use:
 
 A primary example of where this might be extremely usefull is a collapsable side-navigation panel.
 When the panel is off-screen, adding the `inert` attribute to it can
-prevent links in the panel from tabbable, thus preventing the jarring user
+prevent links in the panel from becoming tabbable, thus preventing the jarring user
 experience of browser focus vanishing into thin air. (Of course, you should then
 remove the attribute when panel is animated on-screen.)
 
@@ -33,9 +33,9 @@ ember install ember-inert-polyfill
 
 No setup or special configuration is needed: you can now use the `inert` attribute on any HTML element.
 
-
-## Developing
-
+## Contributing
+This project will intend to stay up to date with offering the [latest version of the polyfill](https://github.com/GoogleChrome/inert-polyfill/blob/master/package.json). If you [notice a discrepency](https://github.com/BrianSipple/ember-inert-polyfill/blob/master/blueprints/ember-inert-polyfill/index.js), please feel free to [open up an issue](https://github.com/BrianSipple/ember-inert-polyfill/issues).
+  
 ### Installation
 
 * `git clone` this repository
