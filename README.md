@@ -19,7 +19,7 @@ The official HTML spec provides a good description of its use:
 
 > A node (in particular elements and text nodes) can be marked as inert. When a node is inert, then the user agent must act as if the node was absent for the purposes of targeting user interaction events, may ignore the node for the purposes of text search user interfaces (commonly known as "find in page"), and may prevent the user from selecting text in that node.
 
-Another handy use case is for collapsable side-navigation panels.
+A primary example of where this might be extremely usefull is a collapsable side-navigation panel.
 When the panel is off-screen, adding the `inert` attribute to it can
 prevent links in the panel from tabbable, thus preventing the jarring user
 experience of browser focus vanishing into thin air. (Of course, you should then
