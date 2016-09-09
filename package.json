@@ -1,6 +1,6 @@
 {
   "name": "ember-inert-polyfill",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Ember addon that provides the inert-polyfill to consuming applications",
   "directories": {
     "doc": "doc",
