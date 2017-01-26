@@ -1,5 +1,7 @@
 # ember-inert-polyfill
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BrianSipple/ember-inert-polyfill.svg)](https://greenkeeper.io/)
+
 _An Ember addon that enables use of the HTML `inert` attribute by importing
 the [inert polyfill](https://github.com/GoogleChrome/inert-polyfill)._
 
